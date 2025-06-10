@@ -1,15 +1,18 @@
 
-git init
+git init [for initializing git repository]
 
-git status
+git status [list all untracked files]
 
-git add -A
+git add -A [adding all untracked files to staging area]
 
-git commit -m "commit message"
+git commit -m "commit message" [ staged files to local repository]
 
-git branch
+git branch [list all branches]
 
-git remote add name path
+git remote add name path [add a new remote repository]
 
 ex:
     >git remote add origin https://github.com/luminartechnolabkochi/gitlearningmarch.git
+
+
+git remote -v [liat all added remote repository]
