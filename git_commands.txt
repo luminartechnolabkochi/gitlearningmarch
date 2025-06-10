@@ -15,4 +15,8 @@ ex:
     >git remote add origin https://github.com/luminartechnolabkochi/gitlearningmarch.git
 
 
-git remote -v [liat all added remote repository]
+git remote -v [list all added remote repository]
+
+git stash
+
+git log
