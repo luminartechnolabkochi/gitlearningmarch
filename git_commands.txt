@@ -8,3 +8,8 @@ git add -A
 git commit -m "commit message"
 
 git branch
+
+git remote add name path
+
+ex:
+    >git remote add origin https://github.com/luminartechnolabkochi/gitlearningmarch.git
